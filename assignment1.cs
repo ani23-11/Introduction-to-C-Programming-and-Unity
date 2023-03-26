@@ -2,11 +2,6 @@ using System;
 
 namespace ProgrammingAssignment1
 {
-    // IMPORTANT: Only add code in the section
-    // indicated below. The code I've provided
-    // makes your solution work with the 
-    // automated grader on Coursera
-
     /// <summary>
     /// Programming Assignment 1
     /// </summary>
@@ -27,8 +22,6 @@ namespace ProgrammingAssignment1
                 // course add more space between the
                 // comments as needed
                 Console.WriteLine("H\nHe\nLi\nBe\nB\nC\nN\nO\nF\nNe");
-
-
                 // Don't add or modify any code below
                 // this comment
                 input = Console.ReadLine();

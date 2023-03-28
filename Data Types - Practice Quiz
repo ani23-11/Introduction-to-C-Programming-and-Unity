@@ -1,0 +1,12 @@
+Question 1
+Select the two things that a data type tells us below
+
+How to interpret the bits for variables of that data type
+->Correct. The data type for a variable tells whether the bits in the memory location for that variable should be interpreted as a whole number, a real number, a character, or a Boolean
+
+The address of a variable of that data type
+
+Valid operations for variables of that data type
+->Correct. The data type for a variable tells us what operations we can perform with that variable.
+
+The name of a variable of that data type

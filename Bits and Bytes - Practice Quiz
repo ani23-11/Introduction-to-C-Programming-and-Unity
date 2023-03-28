@@ -1,0 +1,20 @@
+Question 1
+
+You have 4 bits you can use to give unique names (using binary!) to 
+different inventory items in your game. How many unique names can you 
+have?
+
+-1
+16 That's correct, because 2 raised to the power b = n. The b in the equation is the number of bits and the n is the number of unique things we can represent with those bits.  In this case, b is 4, and 2 raised to the power 4 =16, so n is 16. 
+42
+8
+
+
+Question 2
+
+You need to represent 31 unique values in binary. How many bits do you need?
+
+4.9542
+8
+5 That's correct. We can't have "partial bits", and because 4 bits isn't enough and 5 bits can be used to represent 32 unique things, we need to use 5 bits.
+-1
